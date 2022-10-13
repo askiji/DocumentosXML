@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<alumnos>
+	<alumno>
+		<apellido>Garcia Ramirez</apellido>
+		<nombre>Soraya</nombre>
+		<edad>18</edad>
+	</alumno>
+	<alumno>
+		<apellido>Aldo Faldo</apellido>
+		<nombre>Pedro</nombre>
+		<edad>28</edad>
+	</alumno>
+	<alumno>
+		<apellido>Pérez Pérez</apellido>
+		<nombre>Gillermo</nombre>
+		<edad>31</edad>
+	</alumno>
+	<alumno>
+		<apellido>Olivos Martín</apellido>
+		<nombre>Jimena</nombre>
+		<edad>41</edad>
+	</alumno>
+</alumnos>
